@@ -1,0 +1,12 @@
+
+
+.formulario {
+    font-size: 20px;
+    display: block;
+}
+
+#enviar {
+    font-size: 25px;
+    color: #fff;
+    background: green;
+}

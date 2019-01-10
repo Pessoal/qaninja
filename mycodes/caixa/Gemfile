@@ -1,0 +1,17 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+#git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+# gem "rails"
+
+# jnuit esta para java , assim como rspec esta para ruby 
+# testlink esta para qa manual assim como rspec + ruby + capybara esta para qa automatizado
+
+# pom.xls do mave é o gemfile do Ruby
+# csproj do .net é o gemfile do ruby
+# package.jon do Node é o genfile do ruby
+
+gem 'rspec'
+

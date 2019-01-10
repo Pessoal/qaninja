@@ -1,0 +1,7 @@
+source "http://rubygems.org"
+
+# pom.xls do maven é o Gemfile do Ruby
+# csproj do .net é o Gemfile do Ruby
+# package.jon do Node é o Gemfile do Ruby
+
+gem 'rspec'
